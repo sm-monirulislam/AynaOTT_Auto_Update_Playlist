@@ -1,5 +1,12 @@
-
 #EXTM3U
+
+#=================================
+#  Developed by: Monirul Islam
+#  Telegram: https://t.me/monirul_Islam_SM
+#  Channel: https://t.me/sm_iptv_bd
+#  Last Updated: 2026-08-19 10:00:12 (BD Time)
+#  Channels Count: 200+
+#=================================
 
 #EXTINF:-1 tvg-id="atn_news" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg",ATN News
 https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/atn_news/index.m3u8
