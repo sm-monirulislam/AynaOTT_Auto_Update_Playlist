@@ -29,7 +29,7 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git clone https://x-access-token:${GH_PAT}@github.com/sm-monirulislam/${REPO_NAME}.git private_code
-          cp private_code/App/aynaott_sm.py .
+          cp private_code/scripts/aynaott_sm.py .
           rm -rf private_code
 
       - name: Run Scraper Script
