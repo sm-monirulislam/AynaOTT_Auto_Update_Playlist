@@ -3,7 +3,7 @@
     "name": "AynaOTT Auto Update",
     "devoloper": "Monirul Islam",
     "telegram group": "https://t.me/sm_iptv_bd",
-    "channels_amount": 229,
+    "channels_amount": 230,
     "last_update": "2026-09-14",
     "response": [
         {
@@ -1398,6 +1398,13 @@
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7c9578433e8f6ab63736a08edef56644_playmist_tlc_hd_400x400.jpg",
             "group": "English",
             "url": "https://tvsen3.aynaott.com/EJagkNL2/index.m3u8"
+        },
+        {
+            "id": "019de785-3a0f-7a8d-aa40-1bc1d60c9817",
+            "name": "TNT Sport 1",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",
+            "group": "Sports",
+            "url": "https://tvsen6.aynaott.com/TntSports1HD/index.m3u8"
         },
         {
             "id": "019de785-3b9a-7ace-a6b9-3276da2bf5c3",
