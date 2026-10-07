@@ -1,6 +1,8 @@
 name: AynaOTT Auto Update
 
 on:
+  schedule:
+    - cron: '0 */12 * * *'
   workflow_dispatch:
   workflow_call:
 
