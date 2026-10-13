@@ -3,8 +3,8 @@
     "name": "AynaOTT Auto Update",
     "devoloper": "Monirul Islam",
     "telegram group": "https://t.me/sm_iptv_bd",
-    "channels_amount": 231,
-    "last_update": "2026-10-13",
+    "channels_amount": 232,
+    "last_update": "2026-10-14",
     "response": [
         {
             "id": "019de785-3984-7c6c-b734-30d6bb22b3b8",
@@ -326,7 +326,7 @@
             "name": "T Sports HD",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg",
             "group": "Bangla",
-            "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/index.m3u8"
+            "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
         },
         {
             "id": "019de785-3993-7ccc-8bc0-184c2c761c69",
@@ -817,6 +817,13 @@
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",
             "group": "Sports",
             "url": "https://tvsen7.aynascope.net/tsn3/index.m3u8"
+        },
+        {
+            "id": "01a1354e-5a92-70b0-b6d5-9a089d27c2c7",
+            "name": "Willow Sports 2",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-10-13/images_b682a582e7041a8083aa53cefbe9546e_playmist_willow_sports_2.jpg",
+            "group": "Sports",
+            "url": "https://tvsen7.aynaott.com/Sports1/index.m3u8"
         },
         {
             "id": "019de785-39b9-7313-8fe1-ced68786a50b",
