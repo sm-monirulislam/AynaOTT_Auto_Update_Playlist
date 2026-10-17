@@ -802,21 +802,21 @@
             "name": "TSN 1",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg",
             "group": "Sports",
-            "url": "https://tvsen7.aynascope.net/tsn1/index.m3u8"
+            "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8"
         },
         {
             "id": "019de785-39e2-7b89-b765-55ec31696b75",
             "name": "TSN 2",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_c92bf4f46958e65be6cc370e3fc1f0dd_playmist_tsn_2_400x400.jpg",
             "group": "Sports",
-            "url": "https://tvsen7.aynascope.net/tsn2/index.m3u8"
+            "url": "https://tvsen7.aynaott.com/tsn2/index.m3u8"
         },
         {
             "id": "019de785-39e4-74c7-9cdb-1427d9235bb6",
             "name": "TSN 3",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",
             "group": "Sports",
-            "url": "https://tvsen7.aynascope.net/tsn3/index.m3u8"
+            "url": "https://tvsen7.aynaott.com/tsn3/index.m3u8"
         },
         {
             "id": "01a1354e-5a92-70b0-b6d5-9a089d27c2c7",
