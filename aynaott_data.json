@@ -3,8 +3,8 @@
     "name": "AynaOTT Auto Update",
     "devoloper": "Monirul Islam",
     "telegram group": "https://t.me/sm_iptv_bd",
-    "channels_amount": 232,
-    "last_update": "2026-11-02",
+    "channels_amount": 233,
+    "last_update": "2026-11-03",
     "response": [
         {
             "id": "019de785-3984-7c6c-b734-30d6bb22b3b8",
@@ -950,6 +950,13 @@
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_281d2359842d306ac384314f30059648_playmist_zee_24_ghanta_400x400.jpg",
             "group": "Indian Bangla",
             "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8"
+        },
+        {
+            "id": "019efa45-dee3-7460-a2d9-6add12132b2e",
+            "name": "Zee Bangla Sonar",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/1388170186b34ba8e86eb48111d369d8.jpg",
+            "group": "Indian Bangla",
+            "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8"
         },
         {
             "id": "019de785-3b5f-7a60-9c5c-1b8326d70a92",
