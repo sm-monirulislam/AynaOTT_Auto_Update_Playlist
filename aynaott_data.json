@@ -4,7 +4,7 @@
     "devoloper": "Monirul Islam",
     "telegram group": "https://t.me/sm_iptv_bd",
     "channels_amount": 234,
-    "last_update": "2026-11-28",
+    "last_update": "2026-11-29",
     "response": [
         {
             "id": "019de785-3984-7c6c-b734-30d6bb22b3b8",
@@ -823,7 +823,7 @@
             "name": "Willow Sports 2",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-10-13/images_b682a582e7041a8083aa53cefbe9546e_playmist_willow_sports_2.jpg",
             "group": "Sports",
-            "url": "https://tvsen7.aynaott.com/Sports1/index.m3u8"
+            "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
         },
         {
             "id": "019de785-39b9-7313-8fe1-ced68786a50b",
